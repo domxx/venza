@@ -13,3 +13,5 @@ for i in meals:
 
 if venza:
     print("YES")
+else:
+    print ("NO")
